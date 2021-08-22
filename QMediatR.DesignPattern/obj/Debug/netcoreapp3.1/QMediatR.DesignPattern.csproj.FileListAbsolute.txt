@@ -1,0 +1,13 @@
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\QMediatR.DesignPattern\bin\Debug\netcoreapp3.1\QMediatR.DesignPattern.exe
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\QMediatR.DesignPattern\bin\Debug\netcoreapp3.1\QMediatR.DesignPattern.deps.json
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\QMediatR.DesignPattern\bin\Debug\netcoreapp3.1\QMediatR.DesignPattern.runtimeconfig.json
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\QMediatR.DesignPattern\bin\Debug\netcoreapp3.1\QMediatR.DesignPattern.runtimeconfig.dev.json
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\QMediatR.DesignPattern\bin\Debug\netcoreapp3.1\QMediatR.DesignPattern.dll
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\QMediatR.DesignPattern\bin\Debug\netcoreapp3.1\QMediatR.DesignPattern.pdb
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\QMediatR.DesignPattern\obj\Debug\netcoreapp3.1\QMediatR.DesignPattern.csproj.AssemblyReference.cache
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\QMediatR.DesignPattern\obj\Debug\netcoreapp3.1\QMediatR.DesignPattern.AssemblyInfoInputs.cache
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\QMediatR.DesignPattern\obj\Debug\netcoreapp3.1\QMediatR.DesignPattern.AssemblyInfo.cs
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\QMediatR.DesignPattern\obj\Debug\netcoreapp3.1\QMediatR.DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\QMediatR.DesignPattern\obj\Debug\netcoreapp3.1\QMediatR.DesignPattern.dll
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\QMediatR.DesignPattern\obj\Debug\netcoreapp3.1\QMediatR.DesignPattern.pdb
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\QMediatR.DesignPattern\obj\Debug\netcoreapp3.1\QMediatR.DesignPattern.genruntimeconfig.cache

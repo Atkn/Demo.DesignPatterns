@@ -1,0 +1,13 @@
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\Factory.DesignPattern\bin\Debug\netcoreapp3.1\Factory.DesignPattern.exe
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\Factory.DesignPattern\bin\Debug\netcoreapp3.1\Factory.DesignPattern.deps.json
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\Factory.DesignPattern\bin\Debug\netcoreapp3.1\Factory.DesignPattern.runtimeconfig.json
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\Factory.DesignPattern\bin\Debug\netcoreapp3.1\Factory.DesignPattern.runtimeconfig.dev.json
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\Factory.DesignPattern\bin\Debug\netcoreapp3.1\Factory.DesignPattern.dll
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\Factory.DesignPattern\bin\Debug\netcoreapp3.1\Factory.DesignPattern.pdb
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\Factory.DesignPattern\obj\Debug\netcoreapp3.1\Factory.DesignPattern.csproj.AssemblyReference.cache
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\Factory.DesignPattern\obj\Debug\netcoreapp3.1\Factory.DesignPattern.AssemblyInfoInputs.cache
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\Factory.DesignPattern\obj\Debug\netcoreapp3.1\Factory.DesignPattern.AssemblyInfo.cs
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\Factory.DesignPattern\obj\Debug\netcoreapp3.1\Factory.DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\Factory.DesignPattern\obj\Debug\netcoreapp3.1\Factory.DesignPattern.dll
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\Factory.DesignPattern\obj\Debug\netcoreapp3.1\Factory.DesignPattern.pdb
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\Factory.DesignPattern\obj\Debug\netcoreapp3.1\Factory.DesignPattern.genruntimeconfig.cache

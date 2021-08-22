@@ -1,0 +1,13 @@
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\TemlpateMethod.DesignPattern\bin\Debug\netcoreapp3.1\TemlpateMethod.DesignPattern.exe
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\TemlpateMethod.DesignPattern\bin\Debug\netcoreapp3.1\TemlpateMethod.DesignPattern.deps.json
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\TemlpateMethod.DesignPattern\bin\Debug\netcoreapp3.1\TemlpateMethod.DesignPattern.runtimeconfig.json
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\TemlpateMethod.DesignPattern\bin\Debug\netcoreapp3.1\TemlpateMethod.DesignPattern.runtimeconfig.dev.json
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\TemlpateMethod.DesignPattern\bin\Debug\netcoreapp3.1\TemlpateMethod.DesignPattern.dll
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\TemlpateMethod.DesignPattern\bin\Debug\netcoreapp3.1\TemlpateMethod.DesignPattern.pdb
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\TemlpateMethod.DesignPattern\obj\Debug\netcoreapp3.1\TemlpateMethod.DesignPattern.csproj.AssemblyReference.cache
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\TemlpateMethod.DesignPattern\obj\Debug\netcoreapp3.1\TemlpateMethod.DesignPattern.AssemblyInfoInputs.cache
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\TemlpateMethod.DesignPattern\obj\Debug\netcoreapp3.1\TemlpateMethod.DesignPattern.AssemblyInfo.cs
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\TemlpateMethod.DesignPattern\obj\Debug\netcoreapp3.1\TemlpateMethod.DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\TemlpateMethod.DesignPattern\obj\Debug\netcoreapp3.1\TemlpateMethod.DesignPattern.dll
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\TemlpateMethod.DesignPattern\obj\Debug\netcoreapp3.1\TemlpateMethod.DesignPattern.pdb
+C:\Users\ATAKAN\source\repos\Demo.DesignPatterns\TemlpateMethod.DesignPattern\obj\Debug\netcoreapp3.1\TemlpateMethod.DesignPattern.genruntimeconfig.cache
